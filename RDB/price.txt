@@ -1,8 +1,10 @@
-HARGA SATUAN
+HARGA SATUAN MAKANAN
 ~> Indomie  ( $100 )
 ~> Pizza  ( $250 )
 ~> Ayam bakar  ( $300 )
 ~> Babi Guling  ( $350 )
+
+HARGA SATUAN MINUMAN
 ~> susu Coklat  ( $100 )
 ~> Jus Alpukat  ( $200 )
 ~> Tropical Punch  ( $300 )
