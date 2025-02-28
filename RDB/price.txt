@@ -1,22 +1,23 @@
-======| MAKAN |======
-* Indomie 100$ 
-* Pizza 250$
-* Ayam bakar 300$
-* BABI GULING 350$
+HARGA SATUAN
+~> Indomie  ( $100 )
+~> Pizza  ( $250 )
+~> Ayam bakar  ( $300 )
+~> Babi Guling  ( $350 )
+~> susu Coklat  ( $100 )
+~> Jus Alpukat  ( $200 )
+~> Tropical Punch  ( $300 )
 
-======| MINUM |======
-* SUSU COKLAT 100$
-* JUS ALPUKAT 200$
-* TROPICAL PUNCH 300$
+HARGA PER PAKET
+~> Paket Terjangkau  ( $1000 )
+>> Indomie 5 + Susu Coklat 5
+~> Paket Mandor  ( $2000 )
+>> Pizza 5 + Susu Coklat 10
+~> Paket Sehat  ( $2500
+>> Babi Guling 5 + Jus Alpukat 10
+~> Paket Kuli  ( $3000 )
+>> Ayam Bakar 10 + Susu Coklat 10
+~> Paket Wareg  ( $4000 )
+>> Babi Guling 10 + Tropical Punch 10
 
-====| PERPAKET |=====
-* Paket Terjangkau $1.000
-> 5 Indomie + 5 Susu Coklat
-* Paket Mandor $2.000
-> 5 Pizza + 10 Susu Coklat
-* Paket Sehat $2.500
-> 5 Babi Guling + 10 Jus Alpukat
-* Paket Kuli $3.000
-> 10 Ayam Bakar + 10 Susu Coklat
-* Paket Wareg $4.000
-> 10 Babi Guling + 10 Tropical Punch
+PROMO KHUSUS
+~> 
