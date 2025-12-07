@@ -1,0 +1,11 @@
+1.1,Membawa Minuman Beralkohol,$3000,HUKUMAN SOSIAL
+1.2,Mengganggu Ketertiban Umum,$3500,5 BULAN
+1.3,Penghinaan Terhadap Petugas,$4000,8 BULAN
+2.1,Tidak Memiliki SIM,$500,TIKET/DENDA
+2.2,Melanggar Rambu Lalu Lintas,$750,TIKET/DENDA
+2.3,Mengemudi Secara Ugal-ugalan,$1500,PENJARA 2 BULAN
+3.1,Perampokan Bersenjata,$5000,PENJARA 15 BULAN
+3.2,Kepemilikan Senjata Ilegal,$10000,PENJARA 20 BULAN
+3.3,Pembunuhan Berencana,$20000,PENJARA SEUMUR HIDUP
+4.1,Penyanderaan Warga,$7000,PENJARA 12 BULAN
+4.2,Pencurian Kendaraan,$2500,PENJARA 5 BULAN
